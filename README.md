@@ -2,4 +2,4 @@
 
 Based on the [Deedy-Resume template](https://github.com/deedy/Deedy-Resume).
 
-![Screenshot](https://raw.githubusercontent.com/Apolotary/cv/master/cv_screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Apolotary/CV2/master/OpenFonts/sample-image.png)
