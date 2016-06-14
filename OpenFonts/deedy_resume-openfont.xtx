@@ -107,8 +107,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links}
-Facebook:// \href{https://www.facebook.com/Apolotary}{\bf\,Apolotary} \\
-Github:// \href{https://github.com/Apolotary}{\bf\,Apolotary}
+Facebook://\href{https://www.facebook.com/Apolotary}{\bf{Apolotary}} \\
+Github://\href{https://github.com/Apolotary}{\bf{Apolotary}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -189,7 +189,7 @@ Tokyo Mechanical Keyboard Meetup (2016)
 \descript{| iOS Developer}
 \location{2011–2013}
 \begin{tightemize}
-\item Worked on different projects in the areas of computer vision and audio processing
+\item Worked on different projects in the areas of image and audio processing
 \item Led seminars on Beta-testing for iOS applications, trained and supervised junior iOS developers
 \end{tightemize}
 \sectionsep

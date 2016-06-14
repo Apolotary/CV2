@@ -59,7 +59,7 @@
 
 \setlength{\unitlength}{1mm}
 \begin{picture}(0,0)
-\put(0,-23){\includegraphics[width=25mm]{photo.png}}
+\put(-6,-23){\includegraphics[width=25mm]{photo.png}}
 \end{picture}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -67,14 +67,14 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+%\lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{リスケルブ}{ブベクトル}{ \urlstyle{same} モバイルデベロッパ、博士号候補\\
+\namesection{リスケルデイブ}{ブベクトル}{ \urlstyle{same} モバイルデベロッパ、博士号候補\\
 \href{mailto:ryskeldiev.b@gmail.com}{ryskeldiev.b@gmail.com}  | \href{mailto:d8171101@u-aizu.ac.jp}{d8171101@u-aizu.ac.jp}
 }
 
@@ -111,8 +111,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{リンク}
-Facebook:// \href{https://www.facebook.com/Apolotary}{\bf\,Apolotary} \\
-Github:// \href{https://github.com/Apolotary}{\bf\,Apolotary}
+Facebook://\href{https://www.facebook.com/Apolotary}{\bf{Apolotary}} \\
+Github://\href{https://github.com/Apolotary}{\bf{Apolotary}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -205,7 +205,7 @@ Tokyo Mechanical Keyboard Meetup (2016)
 \section{研究}
 \runsubsection{コンピューターアートスラボ}
 \descript{| 研究助手}
-\location{since 2013}
+\location{2013年から}
 教授[Michael Cohen]、ワイヤレスモバイル拡声器のための空間オーディオに教授[Julián Villegas]を使用した作業マルチメディアディスプレイに屋内測位データを適用し、分散型マルチモーダルディスプレイの制御のための[共同仮想環境]システム。
 \sectionsep
 
@@ -224,7 +224,7 @@ ARディスプレイ用のKinectベースのMIDIコントローラを開発し�
 2016	     & IoT x Security Hackathon 2016でのIoTセクションの最初の場所\\
 2016     & SIGGRAPH2016のための学生ボランティアプログラムに受け入れました。 \\
 2015	     & ACM SIGGRAPH VRCAI会議でベストポスターの第三賞。\\
-2015     & シーグラフアジア2015のための学生ボランティアプログラムに受け入れました。 \\
+2015     & SIGGRAPH ASIA 2015のための学生ボランティアプログラムに受け入れました。 \\
 2015	     & 博士課程のプログラムのための文部科学省の奨学金。\\
 2013     & 電気関係学会東北支部連合大会での受信最優秀論文賞\\
 2013     & 修士プログラムのための文部科学省の奨学金\\
