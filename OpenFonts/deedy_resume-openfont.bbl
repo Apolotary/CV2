@@ -1,5 +1,29 @@
 \begin{thebibliography}{1}
 
+\bibitem{cohen2016metering}
+M.~Cohen, Y.~Nagayama, and B.~Ryskeldiev.
+\newblock Metering black holes: networking stand-alone applications for
+  distributed multimodal synchronization.
+\newblock In {\em Proceedings of the 18th ACM International Conference on
+  Multimodal Interaction}, pages 396--397. ACM, 2016.
+
+\bibitem{cohen2014mixed}
+M.~Cohen, R.~Ranaweera, B.~Ryskeldiev, T.~Oyama, A.~Hashimoto, N.~Tsukida, and
+  T.~Miyaji.
+\newblock Mixed virtuality transducer: virtual camera relative location
+  displayed as ambient light.
+\newblock In {\em SIGGRAPH Asia 2014 Mobile Graphics and Interactive
+  Applications}, page~23. ACM, 2014.
+
+\bibitem{cohen2014multimodal}
+M.~Cohen, R.~Ranaweera, B.~Ryskeldiev, T.~Oyama, A.~Hashimoto, N.~Tsukida, and
+  T.~Miyaji.
+\newblock Multimodal mobile-ambient transmedial twirling with environmental
+  lighting to complement fluid perspective with phase-perturbed affordance
+  projection.
+\newblock In {\em SIGGRAPH Asia 2014 Mobile Graphics and Interactive
+  Applications}, page~15. ACM, 2014.
+
 \bibitem{audio2}
 B.~Ryskeldiev, M.~Cohen, and J.~Villegas.
 \newblock Rendering spatial audio through dynamically reconfigurable smartphone

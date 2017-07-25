@@ -53,24 +53,24 @@
 
 \begin{document}
 
-\setlength{\unitlength}{1mm}
-\begin{picture}(0,0)
-\put(0,-25){\includegraphics[width=25mm]{photo.png}}
-\end{picture}
+%\setlength{\unitlength}{1mm}
+%\begin{picture}(0,0)
+%\put(0,-25){\includegraphics[width=25mm]{photo.png}}
+%\end{picture}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+%\lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Bektur}{Ryskeldiev}{ \urlstyle{same} Mobile Developer, PhD Candidate\\
+\namesection{Bektur}{Ryskeldiev}{ \urlstyle{same} PhD Candidate, Mobile Developer\\
 \href{mailto:ryskeldiev.b@gmail.com}{ryskeldiev.b@gmail.com}  | \href{mailto:d8171101@u-aizu.ac.jp}{d8171101@u-aizu.ac.jp}
 }
 
@@ -89,7 +89,7 @@
 
 \subsection{University of Aizu}
 \descript{PhD candidate in \\ Computer Science}
-\location{since April 2015}
+\location{expected to graduate \\ in March 2018}
 \sectionsep
 
 \subsection{University of Aizu}
@@ -100,15 +100,15 @@
 \subsection[American University of Central Asia]{American University \\of Central Asia}
 \descript{BA in Software Engineering}
 \location{2008–2012}
-\sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links}
-Facebook://\href{https://www.facebook.com/Apolotary}{\bf{Apolotary}} \\
-Github://\href{https://github.com/Apolotary}{\bf{Apolotary}}
+%Facebook://\href{https://www.facebook.com/Apolotary}{\bf{Apolotary}} \\
+Web: \href{http://apolotary.com}{\bf{apolotary.com}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -117,10 +117,11 @@ Github://\href{https://github.com/Apolotary}{\bf{Apolotary}}
 \section{Skills}
 \subsection{Technologies}
 \textbullet{} Mobile Development \\
-\textbullet{} Spatial Audio \\
-\textbullet{} Mixed Reality \\
+\textbullet{} VR/MR Development \\
+\textbullet{} Audio \& Video streaming\\
+\textbullet{} Telepresence \\
 \textbullet{} Indoor Positioning \\
-\textbullet{} Computer Music \\
+\textbullet{} Spatial Audio \\
 \textbullet{} Signal Processing
 \break
 \subsection{Programming}
@@ -128,8 +129,7 @@ Github://\href{https://github.com/Apolotary}{\bf{Apolotary}}
 Objective-C \textbullet{}   Python \textbullet{} Shell \\
 C\# \textbullet{} Pure Data \textbullet{} \LaTeX\ \\
 \location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} Praat \textbf{} Assembly \\
-\sectionsep
+C \textbullet{} C++ \textbullet{} Praat \textbullet{} Assembly \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -139,11 +139,14 @@ C \textbullet{} C++ \textbullet{} Praat \textbf{} Assembly \\
 \section{Extracurricular}
 \subsection{Founder of:}
 \href{https://www.facebook.com/groups/1726891124190363/}{Japan Mechanical Keyboard Group} \\
-\href{https://www.facebook.com/events/747745058696294/}{Tokyo Mechanical Keyboard Meetup}
-\break
+\href{https://www.facebook.com/events/747745058696294/}{Tokyo Mechanical Keyboard Meetup} \\
+\href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast}
+\sectionsep
 \subsection{Presenter at:}
 \href{http://www.meetup.com/TokyoiOSMeetup/events/198893802/}{Tokyo iOS Meetup (2014–2015)} \\
-Tokyo Mechanical Keyboard Meetup (2016)
+Tokyo Mechanical Keyboard Meetup (2016-2017) \\
+\href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast (since 2016)} \\
+\href{https://www.facebook.com/theboardpodcast/?fref=ts}{The Board podcast (2016)}
 \sectionsep
 
 
@@ -163,53 +166,78 @@ Tokyo Mechanical Keyboard Meetup (2016)
 
 \section{Experience}
 
+\runsubsection{NTT Laboratories}
+\descript{| Research Intern at Musashino R\&D Center}
+Research Internship on Video Streaming Quality Control\\
+\location{August - September 2017}
+\sectionsep
+
 \runsubsection{University of Aizu}
-\descript{| Research and Teaching Assistant in Computer Arts Laboratory (Computer Music, Sound \& Audio, HI \& VR)}
+\descript{| Research \& Teaching Assistant}
+Teaching courses on Computer Music, Sound \& Audio, Human Interface \& VR\\
 \location{since 2013}
+\sectionsep
+
+\runsubsection{ACM SIGGRAPH}\\
+\descript{International Resources Committee Team Leader (since 2017)}
+Managing the Audio Guides and Podcasts Team\\
+\descript{Student Volunteer Program Team Leader (2016)}
+Managing Student Volunteers at Emerging Technologies and VR Village sections\\
+\descript{Student Volunteer Program (2015-2017)}
+Student Volunteer at ACM SIGGRAPH and ACM SIGGRAPH Asia conferences\\
+\location{since 2015}
 \sectionsep
 
 \runsubsection{Trusoft}
 \descript{| Mobile Consultant, Unity Developer }
-\location{since 2015}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Working on integrating proprietary Contender AI technology into mobile game project.
-\end{tightemize}
+Integrated proprietary AI technology for iOS-based Unity game project\\
+\location{2015–2016}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\begin{tightemize}
+%\item Integrated proprietary contender AI Technology into Unity Game
+%\end{tightemize}
 \sectionsep
 
 \runsubsection{Aizulab}
 \descript{| iOS Developer}
+Developed application for control of distributed smart house systems.\\
 \location{2014–2015}
-\begin{tightemize}
-\item Developed iOS application and Python-based backend solution for monitoring and control of proprietary smart house/factory technology.
-\end{tightemize}
+%\begin{tightemize}
+%\item Worked on iOS-based distributed control application for smart house systems.
+%\end{tightemize}
 \sectionsep
 
 \runsubsection{Sibers}
 \descript{| iOS Developer}
+Image and audio processing, beta-testing, training and supervision of junior developers\\
 \location{2011–2013}
-\begin{tightemize}
-\item Worked on different projects in the areas of image and audio processing
-\item Led seminars on Beta-testing for iOS applications, trained and supervised junior iOS developers
-\end{tightemize}
-\sectionsep
+%\begin{tightemize}
+%\item Worked on different projects in the areas of image and audio processing. Led seminars on Beta-testing for iOS applications, trained and supervised junior iOS developers
+%\end{tightemize}
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research}
+\runsubsection{Univ. of Applied Sciences Düsseldorf}
+\descript{| Visiting Researcher}
+\location{February 2017}
+Worked at \textbf{\href{https://medien.hs-duesseldorf.de/personen/herder/Seiten/vita_en.aspx}{Prof. Jens Herder}}'s laboratory on setup and configuration of realtime broadcasting in Virtual Reality studios, telepresence, evaluation of user experience in VR interfaces.
+\sectionsep
+
 \runsubsection{Computer Arts Laboratory}
 \descript{| Research Assistant}
 \location{since 2013}
-Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael Cohen}} and \textbf{\href{https://www.u-aizu.ac.jp/research/facultylist/endetail?cd=54}{Prof. Juli\'{a}n Villegas}} on rendering spatial audio through wirelessly connected mobile loudspeakers, applying indoor positioning data to multimedia displays, and Collaborative Virtual Environment system for control of distributed multimodal displays.
-\sectionsep
+Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael Cohen}} and \textbf{\href{https://www.u-aizu.ac.jp/research/facultylist/endetail?cd=54}{Prof. Juli\'{a}n Villegas}} on spatial audio rendering for wirelessly connected mobile devices and control of distributed multimodal displays.
+%\sectionsep
 
-\runsubsection{American University of Central Asia}
-\descript{| Undergraduate Researcher}
-\location{2011–2012}
-Developed the Kinect-based MIDI controller for Augmented Reality displays.
-\sectionsep
+%\runsubsection{American University of Central Asia}
+%\descript{| Undergraduate Researcher}
+%\location{2011–2012}
+%Developed the Kinect-based MIDI controller for Augmented Reality displays.
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
@@ -217,24 +245,70 @@ Developed the Kinect-based MIDI controller for Augmented Reality displays.
 
 \section{Awards and Scholarships}
 \begin{tabular}{rll}
-2016	     & First place in IoT section at \href{http://digital-innovation-lab.jp/security-hackathon-2/}{IoT x Security Hackathon 2016}\\
-2016     & Accepted into Student Volunteer program for \href{http://s2016.siggraph.org/}{SIGGRAPH 2016} \\
-2015	     & \href{http://www.cg.ces.kyutech.ac.jp/conference/vrcai2015/for-submitters/award/}{Best Poster 3rd prize at ACM SIGGRAPH VRCAI Conf.} \\
-2015     & Accepted into Student Volunteer program for \href{http://sa2015.siggraph.org/en/}{SIGGRAPH Asia 2015} \\
+2017	     & University of Aizu Graduate School Information Fair, Best Poster 2nd Place\\
+2017	     & ACM SIGGRAPH \href{http://www.siggraph.org/discover/news/acm-siggraph-sponsor-10-students-attend-50-year-turing-award}{Turing Award Celebration Grant}\\
+2017	     & First place in IoT Section at \href{https://www.fukushimahackathon.jp/index.html}{FUKUSHIMA Hackathon 2017}\\
+2016	     & First place in IoT Section at \href{http://digital-innovation-lab.jp/security-hackathon-2/}{IoT x Security Hackathon 2016}\\
+2015	     & \href{http://www.cg.ces.kyutech.ac.jp/conference/vrcai2015/for-submitters/award/}{Best Poster award 3rd prize at ACM SIGGRAPH VRCAI Conf.} \\
 2015	     & MEXT Scholarship for PhD program\\
 2013     & Best Paper prize at \href{http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2013_e.html}{Tohoku-Section Joint Convention} \\
 2013     & MEXT Scholarship for Master's program \\
 \end{tabular}
 \sectionsep
 
+\end{minipage}
+\begin{minipage}[t]{0.66\textwidth}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications}
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+\section{Publications and other academic works}
+\sectionsep
+\subsection{Conferences}
+\sectionsep
+\sectionsep
+%\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrv}
 \bibliography{publications}
 \nocite{*}
+\sectionsep
+
+\subsection{Theses}
+\sectionsep
+\descript{Realtime spatial sound rendering using streamed audio displayed through mobile device loudspeakers}
+\location{Master's thesis | 2015}
+This research project's prototype won Best Paper prize at \href{http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2013_e.html}{Tohoku-Section Joint Convention} in 2013.
+\sectionsep
+
+\descript{Image processing and gesture recognition software development for control of musical instruments}
+\location{Bachelor thesis | 2012}
+\sectionsep
+\sectionsep
+
+\subsection{Paper reviews}
+\sectionsep
+\descript{\href{http://2017.artech-international.org/}{ARTECH 2017}}
+\location{2017}
+Reviewing papers on Digital Arts and Virtual Reality.
+\sectionsep
+
+\descript{\href{https://www.jvrb.org/}{Journal of Virtual Reality and Broadcasting}}
+\location{2016-2017}
+Reviewing papers on Computer Graphics and Virtual Reality.
+\sectionsep
+\sectionsep
+
+\subsection{Expos and demos}
+\sectionsep
+\descript{\href{https://ieee-aizustd.github.io/}{University of Aizu Graduate School Information Fair}}
+\location{2016-2017}
+Presented a poster and demo for ``Rendering Spatial Audio Through Dynamically Reconfigurable Smartphone Loudspeaker Arrays'' paper (2016) and current research results on the application of spatial data to social media streaming (2017).
+\sectionsep
+
+\descript{\href{http://web-ext.u-aizu.ac.jp/~mcohen/welcome/ISSM/14-15/}{International Symposium on Spatial Media}}
+\location{2015}
+Presented a demo for ``Exploring Virtual Sound Environments with Mobile Devices '' paper
+\sectionsep
+
 \end{minipage}
 \end{document}  \documentclass[]{article}
