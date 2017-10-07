@@ -118,7 +118,7 @@ Web: \href{http://apolotary.com}{\bf{apolotary.com}}
 \subsection{Technologies}
 \textbullet{} Mobile Development \\
 \textbullet{} VR/MR Development \\
-\textbullet{} Audio \& Video streaming\\
+\textbullet{} Media streaming\\
 \textbullet{} Telepresence \\
 \textbullet{} Indoor Positioning \\
 \textbullet{} Spatial Audio \\
@@ -143,7 +143,7 @@ C \textbullet{} C++ \textbullet{} Praat \textbullet{} Assembly \\
 \href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast}
 \sectionsep
 \subsection{Presenter at:}
-\href{http://www.meetup.com/TokyoiOSMeetup/events/198893802/}{Tokyo iOS Meetup (2014–2015)} \\
+\href{http://www.meetup.com/TokyoiOSMeetup/events/198893802/}{Tokyo iOS Meetup (2014–2017)} \\
 Tokyo Mechanical Keyboard Meetup (2016-2017) \\
 \href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast (since 2016)} \\
 \href{https://www.facebook.com/theboardpodcast/?fref=ts}{The Board podcast (2016)}
@@ -168,8 +168,18 @@ Tokyo Mechanical Keyboard Meetup (2016-2017) \\
 
 \runsubsection{NTT Laboratories}
 \descript{| Research Intern at Musashino R\&D Center}
-Research Internship on Video Streaming Quality Control\\
+Research internship on video streaming quality control.\\
 \location{August - September 2017}
+\sectionsep
+
+\runsubsection{ACM SIGGRAPH}\\
+\descript{International Resources Committee Team Leader (since 2017)}
+Managing the Audio Guides and Podcasts Team\\
+\descript{Student Volunteer Program Team Leader (2016-17)}
+Managing Student Volunteers at Emerging Technologies and VR Village sections\\
+\descript{Student Volunteer Program (2015-2017)}
+Student Volunteer at ACM SIGGRAPH and ACM SIGGRAPH Asia conferences\\
+\location{since 2015}
 \sectionsep
 
 \runsubsection{University of Aizu}
@@ -178,17 +188,7 @@ Teaching courses on Computer Music, Sound \& Audio, Human Interface \& VR\\
 \location{since 2013}
 \sectionsep
 
-\runsubsection{ACM SIGGRAPH}\\
-\descript{International Resources Committee Team Leader (since 2017)}
-Managing the Audio Guides and Podcasts Team\\
-\descript{Student Volunteer Program Team Leader (2016)}
-Managing Student Volunteers at Emerging Technologies and VR Village sections\\
-\descript{Student Volunteer Program (2015-2017)}
-Student Volunteer at ACM SIGGRAPH and ACM SIGGRAPH Asia conferences\\
-\location{since 2015}
-\sectionsep
-
-\runsubsection{Trusoft}
+\runsubsection{Helium9 Games}
 \descript{| Mobile Consultant, Unity Developer }
 Integrated proprietary AI technology for iOS-based Unity game project\\
 \location{2015–2016}
@@ -221,6 +221,7 @@ Image and audio processing, beta-testing, training and supervision of junior dev
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research}
+
 \runsubsection{Univ. of Applied Sciences Düsseldorf}
 \descript{| Visiting Researcher}
 \location{February 2017}
@@ -257,14 +258,15 @@ Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael C
 \sectionsep
 
 \end{minipage}
-\begin{minipage}[t]{0.66\textwidth}
+\begin{minipage}[t]{\textwidth}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Publications and other academic works}
 \sectionsep
-\subsection{Conferences}
+\sectionsep
+\subsection{Papers}
 \sectionsep
 \sectionsep
 %\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
@@ -285,30 +287,57 @@ This research project's prototype won Best Paper prize at \href{http://www.ecei.
 \sectionsep
 \sectionsep
 
+%\subsection{Paper reviews}
+%\sectionsep
+% \runsubsection{}
+% \descript{| 2016-2017}
+% %Research internship on video streaming quality control.\\
+% %\descript{\href{http://2017.artech-international.org/}{ARTECH 2017}}
+% % \location{2017}
+% Reviewing papers on Digital Arts and Virtual Reality.
+% \sectionsep
+
 \subsection{Paper reviews}
 \sectionsep
 \descript{\href{http://2017.artech-international.org/}{ARTECH 2017}}
-\location{2017}
-Reviewing papers on Digital Arts and Virtual Reality.
+\location{2016-2017}
+Reviewing papers on Digital Arts and Virtual Reality.\\
 \sectionsep
-
 \descript{\href{https://www.jvrb.org/}{Journal of Virtual Reality and Broadcasting}}
 \location{2016-2017}
-Reviewing papers on Computer Graphics and Virtual Reality.
+Reviewing papers on Computer Graphics and Virtual Reality.\\
 \sectionsep
 \sectionsep
 
-\subsection{Expos and demos}
+\subsection{Demos}
 \sectionsep
 \descript{\href{https://ieee-aizustd.github.io/}{University of Aizu Graduate School Information Fair}}
 \location{2016-2017}
-Presented a poster and demo for ``Rendering Spatial Audio Through Dynamically Reconfigurable Smartphone Loudspeaker Arrays'' paper (2016) and current research results on the application of spatial data to social media streaming (2017).
+Presented posters and live demonstrations of current research projects on applications of spatial data to social media streaming.\\
 \sectionsep
-
 \descript{\href{http://web-ext.u-aizu.ac.jp/~mcohen/welcome/ISSM/14-15/}{International Symposium on Spatial Media}}
 \location{2015}
 Presented a demo for ``Exploring Virtual Sound Environments with Mobile Devices '' paper
 \sectionsep
+
+% \runsubsection{\href{https://www.jvrb.org/}{Journal of Virtual Reality and Broadcasting}}
+% \descript{| 2016-2017}
+% %\descript{\href{https://www.jvrb.org/}{Journal of Virtual Reality and Broadcasting}}
+% % \location{2016-2017}
+% Reviewing papers on Computer Graphics and Virtual Reality.
+% \sectionsep
+
+%\subsection{Live demos}
+% \runsubsection{\href{https://ieee-aizustd.github.io/}{University of Aizu Graduate School Information Fair}}
+% \descript{| 2016-2017}
+% %\descript{\href{https://ieee-aizustd.github.io/}{University of Aizu Graduate School Information Fair}}
+% %\location{}
+% Presented a poster and demo for ``Rendering Spatial Audio Through Dynamically Reconfigurable Smartphone Loudspeaker Arrays'' paper (2016) and current research results on the application of spatial data to social media streaming (2017).
+% \sectionsep
+%
+% \runsubsection{\href{http://web-ext.u-aizu.ac.jp/~mcohen/welcome/ISSM/14-15/}{International Symposium on Spatial Media}}
+% \descript{| 2015}
+% Presented a demo for ``Exploring Virtual Sound Environments with Mobile Devices '' paper
 
 \end{minipage}
 \end{document}  \documentclass[]{article}

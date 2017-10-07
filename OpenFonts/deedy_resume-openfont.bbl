@@ -7,6 +7,13 @@ M.~Cohen, Y.~Nagayama, and B.~Ryskeldiev.
 \newblock In {\em Proceedings of the 18th ACM International Conference on
   Multimodal Interaction}, pages 396--397. ACM, 2016.
 
+\bibitem{scpa}
+M.~Cohen, R.~Ranaweera, B.~Ryskeldiev, T.~Oyama, and A.~Hashimoto.
+\newblock Twhirleds: Spun and whirled affordances controlling multimodal
+  mobile-ambient environments with reality distortion and synchronized lighting
+  to preserve intuitive alignment.
+\newblock In {\em Scientific Phone Apps and Mobile Devices Journal}, 2017.
+
 \bibitem{cohen2014mixed}
 M.~Cohen, R.~Ranaweera, B.~Ryskeldiev, T.~Oyama, A.~Hashimoto, N.~Tsukida, and
   T.~Miyaji.
@@ -24,6 +31,20 @@ M.~Cohen, R.~Ranaweera, B.~Ryskeldiev, T.~Oyama, A.~Hashimoto, N.~Tsukida, and
 \newblock In {\em SIGGRAPH Asia 2014 Mobile Graphics and Interactive
   Applications}, page~15. ACM, 2014.
 
+\bibitem{streamspace}
+B.~Ryskeldiev, M.~Cohen, and J.~Herder.
+\newblock Demo: Applying rotational tracking and photospherical imagery to
+  immersive mobile telepresence and live video streaming groupware.
+\newblock In {\em SIGGRAPH Asia Mobile Graphics and Interactive Applications,
+  Bangkok}, 2017.
+
+\bibitem{ipsj}
+B.~Ryskeldiev, M.~Cohen, and J.~Herder.
+\newblock Streamspace: Pervasive mixed reality telepresence for remote
+  collaboration on mobile devices.
+\newblock In {\em Journal of Information Processing Society of Japan}, 2017
+  (conditionally accepted for publication).
+
 \bibitem{audio2}
 B.~Ryskeldiev, M.~Cohen, and J.~Villegas.
 \newblock Rendering spatial audio through dynamically reconfigurable smartphone
@@ -36,5 +57,12 @@ B.~Ryskeldiev, J.~Villegas, and M.~Cohen.
 \newblock Exploring virtual sound environments with mobile devices.
 \newblock {\em Tohoku-Section Joint Convention of Institutes of Electrical and
   Information Engineers, Japan}, June 2013.
+
+\bibitem{lightscamera}
+N.~Tsukida, B.~Ryskeldiev, and M.~Cohen.
+\newblock Lights, camera, action!: Ambient lighting extending photospherical
+  display.
+\newblock {\em 14th ACM SIGGRAPH Int. Conf. on VR Continuum and Its
+  Applications in Industry, Kobe}, 2015.
 
 \end{thebibliography}
