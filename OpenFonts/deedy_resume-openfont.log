@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.1)  7 OCT 2017 12:13
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.1)  10 OCT 2017 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -869,29 +869,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 130.
 
-Overfull \hbox (4.2303pt too wide) in paragraph at lines 248--259
+Overfull \hbox (4.2303pt too wide) in paragraph at lines 250--261
 [][] 
  []
 
 (./deedy_resume-openfont.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 343.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
  [1
 
 ] [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 343.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
  (./deedy_resume-openfont.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 343.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 343.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 345.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 345.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 343.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
  ) 
 Here is how much of TeX's memory you used:
  22077 strings out of 493591
  395328 string characters out of 6143547
- 431899 words of memory out of 5000000
+ 432899 words of memory out of 5000000
  25329 multiletter control sequences out of 15000+600000
  4248 words of font info for 46 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
