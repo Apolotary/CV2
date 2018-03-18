@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{cohen2016metering}
 M.~Cohen, Y.~Nagayama, and B.~Ryskeldiev.
@@ -31,19 +31,33 @@ M.~Cohen, R.~Ranaweera, B.~Ryskeldiev, T.~Oyama, A.~Hashimoto, N.~Tsukida, and
 \newblock In {\em SIGGRAPH Asia 2014 Mobile Graphics and Interactive
   Applications}, page~15. ACM, 2014.
 
+\bibitem{grapp}
+J.~Herder, P.~Ladwig, K.~Vermeegen, D.~Hergert, F.~Busch, K.~Klever,
+  S.~Holthausen, and B.~Ryskeldiev.
+\newblock Mixed reality experience: How to use a virtual (tv) studio for
+  demonstration of virtual reality applications.
+\newblock In {\em 13th Int. Joint Conf. on Computer Vision, Imaging and
+  Computer Graphics Theory and Applications}, 2018.
+
+\bibitem{sigchi2018}
+B.~Ryskeldiev.
+\newblock Spatial social media: Towards collaborative mixed reality
+  telepresence ``on the go''.
+\newblock In {\em ACM SIGCHI 2018 Doctoral Consortium}, 2018.
+
 \bibitem{streamspace}
 B.~Ryskeldiev, M.~Cohen, and J.~Herder.
 \newblock Demo: Applying rotational tracking and photospherical imagery to
   immersive mobile telepresence and live video streaming groupware.
-\newblock In {\em SIGGRAPH Asia Mobile Graphics and Interactive Applications,
-  Bangkok}, 2017.
+\newblock In {\em SIGGRAPH Asia Symp. on Mobile Graphics and Interactive
+  Applications}, 2017.
 
 \bibitem{ipsj}
 B.~Ryskeldiev, M.~Cohen, and J.~Herder.
 \newblock Streamspace: Pervasive mixed reality telepresence for remote
   collaboration on mobile devices.
-\newblock In {\em Journal of Information Processing Society of Japan}, 2017
-  (conditionally accepted for publication).
+\newblock In {\em IPSJ Journal of Information Processing, Special issue of
+  ``Advances in Collaboration Technologies''}, 2018.
 
 \bibitem{audio2}
 B.~Ryskeldiev, M.~Cohen, and J.~Villegas.
@@ -51,6 +65,12 @@ B.~Ryskeldiev, M.~Cohen, and J.~Villegas.
   loudspeaker arrays.
 \newblock {\em 14th ACM SIGGRAPH Int. Conf. on VR Continuum and Its
   Applications in Industry, Kobe}, 2015.
+
+\bibitem{ah2018}
+B.~Ryskeldiev, Y.~Ochiai, M.~Cohen, and J.~Herder.
+\newblock Distributed metaverse: creating decentralized blockchain-based models
+  for peer-to-peer sharing of virtual spaces for mixed reality applications.
+\newblock In {\em 9th Augmented Human Int. Conf.}, 2018.
 
 \bibitem{audio1}
 B.~Ryskeldiev, J.~Villegas, and M.~Cohen.

@@ -70,8 +70,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Bektur}{Ryskeldiev}{ \urlstyle{same} PhD Candidate, Mobile Developer\\
-\href{mailto:ryskeldiev.b@gmail.com}{ryskeldiev.b@gmail.com}  | \href{mailto:d8171101@u-aizu.ac.jp}{d8171101@u-aizu.ac.jp}
+\namesection{Bektur}{Ryskeldiev}{ \urlstyle{same} PhD Candidate, Research Fellow\\
+\href{mailto:ryskeldiev.b@gmail.com}{ryskeldiev.b@gmail.com}  | \href{mailto:bektour@digitalnature.slis.tsukuba.ac.jp}{bektour@digitalnature.slis.tsukuba.ac.jp}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -89,7 +89,7 @@
 
 \subsection{University of Aizu}
 \descript{PhD candidate in \\ Computer Science}
-\location{expected to graduate \\ in March 2019}
+\location{expected to graduate \\ in September 2018}
 \sectionsep
 
 \subsection{University of Aizu}
@@ -138,14 +138,17 @@ C \textbullet{} C++ \textbullet{} Praat \textbullet{} Assembly \\
 
 \section{Extracurricular}
 \subsection{Founder of:}
+Extending Reality Bishkek:\\The first AR/VR meetup in Kyrgyzstan
 \href{https://www.facebook.com/groups/1726891124190363/}{Japan Mechanical Keyboard Group} \\
 \href{https://www.facebook.com/events/747745058696294/}{Tokyo Mechanical Keyboard Meetup} \\
 \href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast}
 \sectionsep
 \subsection{Presenter at:}
+\href{https://trello.com/c/0JfWUdJQ/1-episode-2-pisut-marisa-siggraph-asia-2017}{SIGGRAPH Spotlight (since 2017)}\\
 \href{http://www.meetup.com/TokyoiOSMeetup/events/198893802/}{Tokyo iOS Meetup (2014–2017)} \\
+Bishkek Developer Meetup (2016-2017) \\
 Tokyo Mechanical Keyboard Meetup (2016-2017) \\
-\href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast (since 2016)} \\
+\href{https://www.twitch.tv/topclack}{Top Clack: Mechanical Keyboard podcast (2016-2018)} \\
 \href{https://www.facebook.com/theboardpodcast/?fref=ts}{The Board podcast (2016)}
 \sectionsep
 
@@ -166,6 +169,12 @@ Tokyo Mechanical Keyboard Meetup (2016-2017) \\
 
 \section{Experience}
 
+\runsubsection{University of Tsukuba}
+\descript{| Research Fellow}
+Researcher at \textbf{\href{http://digitalnature.slis.tsukuba.ac.jp/about/}{Digital Nature Group}} laboratory led by \textbf{\href{http://yoichiochiai.com/}{Prof. Yoichi Ochiai}}\\
+\location{since April 2018}
+\sectionsep
+
 \runsubsection{NTT Laboratories}
 \descript{| Research Intern at Musashino R\&D Center}
 Research internship on video streaming quality control.\\
@@ -173,7 +182,7 @@ Research internship on video streaming quality control.\\
 \sectionsep
 
 \runsubsection{ACM SIGGRAPH}\\
-\descript{S3: SIGGRAPH Student Services (since 2017)}
+\descript{S3: SIGGRAPH Student Services (2017)}
 Invited resume reviewer for applicants interested in VR/HCI research\\
 \descript{International Resources Committee Team Leader (since 2017)}
 Managing the Audio Guides and Podcasts Team\\
@@ -184,10 +193,22 @@ Student Volunteer at ACM SIGGRAPH and ACM SIGGRAPH Asia conferences\\
 \location{since 2015}
 \sectionsep
 
-\runsubsection{University of Aizu}
-\descript{| Research \& Teaching Assistant}
-Teaching courses on Computer Music, Sound \& Audio, Human Interface \& VR\\
-\location{since 2013}
+% \runsubsection{University of Aizu}
+% \descript{| Research \& Teaching Assistant}
+% Teaching courses on Computer Music, Sound \& Audio, Human Interface \& VR\\
+% \location{since 2013}
+% \sectionsep
+
+\runsubsection{Univ. of Applied Sciences Düsseldorf}
+\descript{| Visiting Researcher}
+\location{February 2017}
+Worked at \textbf{\href{https://medien.hs-duesseldorf.de/personen/herder/Seiten/vita_en.aspx}{Prof. Jens Herder}}'s laboratory on setup and configuration of realtime broadcasting in Virtual Reality studios, telepresence, evaluation of user experience in VR interfaces.
+\sectionsep
+
+\runsubsection{Computer Arts Laboratory}
+\descript{| Research Assistant}
+\location{2013-2018}
+Worked with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael Cohen}} and \textbf{\href{https://www.u-aizu.ac.jp/research/facultylist/endetail?cd=54}{Prof. Juli\'{a}n Villegas}} on spatial audio rendering for wirelessly connected mobile devices and control of distributed multimodal displays.
 \sectionsep
 
 \runsubsection{Helium9 Games}
@@ -222,18 +243,18 @@ Image and audio processing, beta-testing, training and supervision of junior dev
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
+% \section{Research}
 
-\runsubsection{Univ. of Applied Sciences Düsseldorf}
-\descript{| Visiting Researcher}
-\location{February 2017}
-Worked at \textbf{\href{https://medien.hs-duesseldorf.de/personen/herder/Seiten/vita_en.aspx}{Prof. Jens Herder}}'s laboratory on setup and configuration of realtime broadcasting in Virtual Reality studios, telepresence, evaluation of user experience in VR interfaces.
-\sectionsep
-
-\runsubsection{Computer Arts Laboratory}
-\descript{| Research Assistant}
-\location{since 2013}
-Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael Cohen}} and \textbf{\href{https://www.u-aizu.ac.jp/research/facultylist/endetail?cd=54}{Prof. Juli\'{a}n Villegas}} on spatial audio rendering for wirelessly connected mobile devices and control of distributed multimodal displays.
+% \runsubsection{Univ. of Applied Sciences Düsseldorf}
+% \descript{| Visiting Researcher}
+% \location{February 2017}
+% Worked at \textbf{\href{https://medien.hs-duesseldorf.de/personen/herder/Seiten/vita_en.aspx}{Prof. Jens Herder}}'s laboratory on setup and configuration of realtime broadcasting in Virtual Reality studios, telepresence, evaluation of user experience in VR interfaces.
+% \sectionsep
+%
+% \runsubsection{Computer Arts Laboratory}
+% \descript{| Research Assistant}
+% \location{2013-2018}
+% Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael Cohen}} and \textbf{\href{https://www.u-aizu.ac.jp/research/facultylist/endetail?cd=54}{Prof. Juli\'{a}n Villegas}} on spatial audio rendering for wirelessly connected mobile devices and control of distributed multimodal displays.
 %\sectionsep
 
 %\runsubsection{American University of Central Asia}
@@ -248,16 +269,16 @@ Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael C
 
 \section{Awards and Scholarships}
 \begin{tabular}{rll}
+2017	     & ACM SIGCHI 2018 Doctoral Consortium\\
 2017	     & University of Aizu Graduate School Information Fair, Best Poster 2nd Place\\
 2017	     & ACM SIGGRAPH \href{http://www.siggraph.org/discover/news/acm-siggraph-sponsor-10-students-attend-50-year-turing-award}{Turing Award Celebration Grant}\\
 2017	     & First place in IoT Section at \href{https://www.fukushimahackathon.jp/index.html}{FUKUSHIMA Hackathon 2017}\\
 2016	     & First place in IoT Section at \href{http://digital-innovation-lab.jp/security-hackathon-2/}{IoT x Security Hackathon 2016}\\
 2015	     & \href{http://www.cg.ces.kyutech.ac.jp/conference/vrcai2015/for-submitters/award/}{Best Poster award 3rd prize at ACM SIGGRAPH VRCAI Conf.} \\
-2015	     & MEXT Scholarship for PhD program\\
+2015     & MEXT Scholarship for PhD program \\
 2013     & Best Paper prize at \href{http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2013_e.html}{Tohoku-Section Joint Convention} \\
 2013     & MEXT Scholarship for Master's program \\
 \end{tabular}
-\sectionsep
 
 \end{minipage}
 \begin{minipage}[t]{\textwidth}
@@ -265,10 +286,10 @@ Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael C
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications and other academic works}
-\sectionsep
-\sectionsep
-\subsection{Papers}
+\section{Publications}
+% \sectionsep
+% \subsection{Papers}
+% \sectionsep
 \sectionsep
 \sectionsep
 %\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
@@ -277,17 +298,17 @@ Working with \textbf{\href{http://web-ext.u-aizu.ac.jp/~mcohen/}{Prof. Michael C
 \nocite{*}
 \sectionsep
 
-\subsection{Theses}
-\sectionsep
-\descript{Realtime spatial sound rendering using streamed audio displayed through mobile device loudspeakers}
-\location{Master's thesis | 2015}
-This research project's prototype won Best Paper prize at \href{http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2013_e.html}{Tohoku-Section Joint Convention} in 2013.
-\sectionsep
-
-\descript{Image processing and gesture recognition software development for control of musical instruments}
-\location{Bachelor thesis | 2012}
-\sectionsep
-\sectionsep
+% \subsection{Theses}
+% \sectionsep
+% \descript{Realtime spatial sound rendering using streamed audio displayed through mobile device loudspeakers}
+% \location{Master's thesis | 2015}
+% This research project's prototype won Best Paper prize at \href{http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2013_e.html}{Tohoku-Section Joint Convention} in 2013.
+% \sectionsep
+%
+% \descript{Image processing and gesture recognition software development for control of musical instruments}
+% \location{Bachelor thesis | 2012}
+% \sectionsep
+% \sectionsep
 
 %\subsection{Paper reviews}
 %\sectionsep
@@ -301,6 +322,10 @@ This research project's prototype won Best Paper prize at \href{http://www.ecei.
 
 \subsection{Paper reviews}
 \sectionsep
+\descript{\href{https://chi2018.acm.org/}{ACM SIGCHI}}
+\location{2018}
+Invited reviewer for Late Breaking Work section\\
+\sectionsep
 \descript{\href{http://2017.artech-international.org/}{ARTECH 2017}}
 \location{2016-2017}
 Reviewing papers on Digital Arts and Virtual Reality.\\
@@ -309,7 +334,7 @@ Reviewing papers on Digital Arts and Virtual Reality.\\
 \location{2016-2017}
 Reviewing papers on Computer Graphics and Virtual Reality.\\
 \sectionsep
-\sectionsep
+
 
 \subsection{Demos}
 \sectionsep
@@ -318,8 +343,8 @@ Reviewing papers on Computer Graphics and Virtual Reality.\\
 Presented posters and live demonstrations of current research projects on applications of spatial data to social media streaming.\\
 \sectionsep
 \descript{\href{http://web-ext.u-aizu.ac.jp/~mcohen/welcome/ISSM/14-15/}{International Symposium on Spatial Media}}
-\location{2015}
-Presented a demo for ``Exploring Virtual Sound Environments with Mobile Devices '' paper
+\location{2015, 2018}
+Presented a demo for ``Exploring Virtual Sound Environments with Mobile Devices '' paper (2015) and StreamSpace (2018)
 \sectionsep
 
 % \runsubsection{\href{https://www.jvrb.org/}{Journal of Virtual Reality and Broadcasting}}
