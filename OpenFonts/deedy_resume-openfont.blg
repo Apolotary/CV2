@@ -1,46 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: deedy_resume-openfont.aux
-The style file: abbrv.bst
-Database file #1: publications.bib
-You've used 12 entries,
-            2118 wiz_defined-function locations,
-            551 strings with 6613 characters,
-and the built_in function-call counts, 4332 in all, are:
-= -- 380
-> -- 285
-< -- 3
-+ -- 112
-- -- 100
-* -- 290
-:= -- 742
-add.period$ -- 39
-call.type$ -- 12
-change.case$ -- 86
+The style file: habbrvyr.bst
+Database file #1: publications_short.bib
+You've used 10 entries,
+            2184 wiz_defined-function locations,
+            552 strings with 5981 characters,
+and the built_in function-call counts, 3722 in all, are:
+= -- 299
+> -- 269
+< -- 0
++ -- 104
+- -- 94
+* -- 241
+:= -- 667
+add.period$ -- 31
+call.type$ -- 10
+change.case$ -- 72
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 175
-empty$ -- 323
-format.name$ -- 100
-if$ -- 902
+cite$ -- 10
+duplicate$ -- 150
+empty$ -- 299
+format.name$ -- 94
+if$ -- 753
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 12
-newline$ -- 63
-num.names$ -- 24
-pop$ -- 121
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 53
+num.names$ -- 30
+pop$ -- 131
 preamble$ -- 1
-purify$ -- 74
+purify$ -- 62
 quote$ -- 0
-skip$ -- 102
+skip$ -- 77
 stack$ -- 0
-substring$ -- 100
-swap$ -- 40
-text.length$ -- 3
+substring$ -- 50
+swap$ -- 19
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 48
+type$ -- 40
 warning$ -- 0
-while$ -- 29
-width$ -- 14
-write$ -- 128
+while$ -- 30
+width$ -- 12
+write$ -- 104
